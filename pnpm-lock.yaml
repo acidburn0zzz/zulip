@@ -146,8 +146,8 @@ dependencies:
     specifier: ^3.0.1
     version: 3.0.5
   katex:
-    specifier: ^0.16.2
-    version: 0.16.6
+    specifier: ^0.16.10
+    version: 0.16.10
   lodash:
     specifier: ^4.17.19
     version: 4.17.21
@@ -7619,8 +7619,8 @@ packages:
     engines: {node: '>=10.0.0'}
     dev: true
 
-  /katex@0.16.6:
-    resolution: {integrity: sha512-XVB7X8jEogjJ+OY+a9JdE+VOk9i7znela0HP6WaDbpB4sUh8ghrG0Ccluu2MA2tcJbFAViBC9aVXus2UvkEr8A==}
+  /katex@0.16.10:
+    resolution: {integrity: sha512-ZiqaC04tp2O5utMsl2TEZTXxa6WSC4yo0fv5ML++D3QZv/vx2Mct0mTlRx3O+uUkjfuAgOkzsCmq5MiUEsDDdA==}
     hasBin: true
     dependencies:
       commander: 8.3.0
